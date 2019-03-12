@@ -1,13 +1,15 @@
-body{
-    background-color:purple;
+body {
+    background-color:black
+    
 }
 
+
 h1{
-    background-color:blue;
+    background-color:grey;
 }
 
 jumbotron{ 
-    background-color:blue;
+    background-color:orange!important;
 }
 
 h2{
@@ -17,5 +19,9 @@ h2{
 img{
     background-color:grey;
 }
+
+
+    
+
 
 
